@@ -7,5 +7,5 @@
     <p></p>
     <a href="https://github.com/adskoe96/UnrealStuff/blob/master/DefaultGame.ini", target="_blank">Defense against players who play with speedhack</a>
     <p></p>
-    <a href="https://github.com/adskoe96/UnrealStuff/tree/master/Components", target="_blank">Network-ready stamina component</a>
+    <a href="https://github.com/adskoe96/UnrealStuff/tree/master/Components/StaminaComponent", target="_blank">Network-ready stamina component</a>
 </div>
