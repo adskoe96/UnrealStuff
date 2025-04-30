@@ -5,10 +5,10 @@
 <div align="center">
     <h2>Blueprint Algorithms</h2>
     <h3>Player Nickname Algorithms</h3>
-    <a>Send nickname to server and validate it (PlayerState)</a>
-    <img src="./BP_Algorithms/BP_SendAndValidateNicknameAlgorithm.png">
     <a>Load nickname (Character)</a>
     <img src="./BP_Algorithms/BP_LoadNicknameAlgorithm.png">
+    <a>Send nickname to server and validate it (PlayerState)</a>
+    <img src="./BP_Algorithms/BP_SendAndValidateNicknameAlgorithm.png">
     <a>Validate nickname (GameMode)</a>
     <img src="./BP_Algorithms/BP_ValidateNicknameAlgorithm.png">
     <h3>Spectator Algorithms</h3>
