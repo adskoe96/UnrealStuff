@@ -1,10 +1,19 @@
-#include "AYourPlayerState.h"
+#pragma once
 
-AYourPlayerState::AYourPlayerState()
-{
-}
+#include "CoreMinimal.h"
+#include "GameFramework/PlayerState.h"
+#include "AYourPlayerState.generated.h"
 
-AYourPlayerController* AYourPlayerState::GetPlayerController() const
+UCLASS()
+class YourGameAPI AYourPlayerState : public APlayerState
 {
-	return Cast<AYourPlayerController>(GetOwner());
-}
+	GENERATED_BODY()
+	
+public:
+	AYourPlayerState();
+
+    // Used for Unreal Engine 4.27.2 (because this version has not "GetPlayerController" method in PlayerState class)
+    // Your player controller class
+	UFUNCTION(BlueprintPure, Category = "GAME|PLAYERSTATE|UTILS")
+	AYourPlayerController* GetPlayerController() const;
+};
