@@ -25,4 +25,6 @@
     <a href="https://github.com/adskoe96/UnrealStuff/blob/master/DefaultGame.ini", target="_blank">Defense against players who play with speedhack</a>
     <p></p>
     <a href="https://github.com/adskoe96/UnrealStuff/tree/master/Components/StaminaComponent", target="_blank">Network-ready stamina component</a>
+    <p></p>
+    <a href="https://github.com/adskoe96/UnrealStuff/tree/master/CPP/PlayerState", target="_blank">GetPlayerController method for PlayerState (Unreal Engine 4.27.2)</a>
 </div>
