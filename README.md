@@ -4,6 +4,9 @@
 
 <div align="center">
     <h2>Blueprint Algorithms</h2>
+    <h3>Spectator Algorithms</h3>
+    <a>Spectator selector for UI Blueprint</a>
+    <img src="./BP_Algorithms/BP_SpectateUIAlgorithm.png">
     <a>Spectate Blueprint Algorithm (for spectator mode)</a>
     <img src="./BP_Algorithms/BP_SpectateAlgorithm.png">
 </div>
